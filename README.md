@@ -1,4 +1,6 @@
-### Hi
+### I'm norangeflame.
+# Aspiring programmer // knows AHK, Python, VB.NET and Batch // codes useless stuff // tries to hack people. 
+
 ![](https://komarev.com/ghpvc/?username=norangeflame)
 
 <!--
