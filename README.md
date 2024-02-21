@@ -1,7 +1,5 @@
 # I'm norangeflame.
-### Aspiring programmer // knows AHK, Python, VB.NET and Batch // codes useless stuff // tries to hack people. 
-
-![](https://komarev.com/ghpvc/?username=norangeflame)
+### Aspiring programmer // knows AHK, Python, VB.NET // codes useless stuff. 
 
 <!--
 **norangeflame/norangeflame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
